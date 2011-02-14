@@ -1,0 +1,33 @@
+body { background-color: gainsboro; }
+
+#cursor {
+  margin: 2px;
+  color: whitesmoke;
+  padding: 2px;
+  background-color: gray;
+  border: solid gainsboro;
+  border-radius: 40px;
+  font-size: 18pt;
+  margin-top: bottom;
+  margin-left: right;
+}
+
+#screen { 
+  background-color: gray;
+  margin: 10px;
+  font-size: 22pt;
+  padding: 20px;
+  border-radius: 35px;
+  resize: both;
+}
+
+#terminal { 
+  font-family: "Courier", monospace;
+  color: gainsboro;
+  text-align: left; 
+  border: solid powderblue 5px;
+  border-radius: 20px;
+  background-color: whitesmoke;
+  margin-left: auto;
+  margin-right: auto;
+};
