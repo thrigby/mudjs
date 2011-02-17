@@ -23,6 +23,6 @@ $ node mud.js
 ## to run the Ruby version do
 
 $ bundle install
-$ thin -r config.ru start
+$ bundle exec thin -r config.ru start
 
 ## and thats the way it is
