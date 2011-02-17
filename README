@@ -20,3 +20,8 @@ export PATH="/usr/local/share/npm/bin:$PATH"
 
 $ node mud.js
 
+## to run the Ruby version do
+
+$ bundle install
+$ thin -r config.ru start
+

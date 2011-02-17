@@ -1,0 +1,2 @@
+require 'mud'
+run MudServer
