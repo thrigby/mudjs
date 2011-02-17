@@ -25,3 +25,4 @@ $ node mud.js
 $ bundle install
 $ thin -r config.ru start
 
+## and thats the way it is
